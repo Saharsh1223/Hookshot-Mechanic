@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{509CF4D5-95B0-3E81-4DF4-2230888F974E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Hookshot/Scripts/PlayerCharacterController.cs">
+    <Files>
+      <File FileName="Assets/Hookshot/Scripts/PlayerCharacterController.cs" Line="162" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Grappling Hook" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Hookshot" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="17fe504d-2bd0-4199-94ca-a57dc49ca9a0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
